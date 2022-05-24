@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Personen</AssemblyName>
+    <RootNamespace>Personen</RootNamespace>
+    <Authors>Mitch Koomen</Authors>
+    <Company>Dingus.inc</Company>
+    <Product>OOP</Product>
+    <Description>Opdracht1 van OOP</Description>
+    <Copyright>Mitch Koomen</Copyright>
+  </PropertyGroup>
+
+</Project>
